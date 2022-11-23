@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on discord bots and a own reminder<br>💬 Ask me about everything you like
+🔭 I’m currently working on a Discord bot and on a Reminder<br>💬 Ask me about everything you like
 
 
 # 💻 Tech Stack:
