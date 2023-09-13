@@ -1,5 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome!)](https://git.io/typing-svg)
 
+![GitHub](https://img.shields.io/badge/Tophhhh-gray?logo=github)
+
 # 💫 About Me:
 - 👋 Hi, i’m Toph
 - 🔭 I’m currently working on a Discord bot called "Tuffel"
