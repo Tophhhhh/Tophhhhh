@@ -1,5 +1,7 @@
 ![dummy](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWUzdWZ4ZWJ5Y3RybXp4c294cjd4NW55czB3OWNqdzc3bWYyYzNvdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/r49zgiCebaE0yd6UNn/giphy.gif)
 
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWUzdWZ4ZWJ5Y3RybXp4c294cjd4NW55czB3OWNqdzc3bWYyYzNvdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/r49zgiCebaE0yd6UNn/giphy.gif" height="100em" width="100em"/>
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome!)](https://git.io/typing-svg)
 
 ![GitHub](https://img.shields.io/badge/Tophhhh-gray?logo=github)
@@ -24,23 +26,23 @@
 
 ## NEW
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" heigth="60em" width="60em" alt="Java"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" heigth="60em" width="60em" alt="JavaScript"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" heigth="60em" width="60em" alt="Angular"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original-wordmark.svg" heigth="60em" width="60em" alt="Angular"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" heigth="60em" width="60em" alt="Bitbucket"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" heigth="60em" width="60em" alt="CSS"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" heigth="60em" width="60em" alt="Docker"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" heigth="60em" width="60em" alt="Gimp"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" heigth="60em" width="60em" alt="GIT"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" heigth="60em" width="60em" alt="Git_hub"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" heigth="60em" width="60em" alt="HTML5"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" heigth="60em" width="60em" alt="PS"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" heigth="60em" width="60em" alt="Spring"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" heigth="60em" width="60em" alt="SQLite"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/subversion/subversion-original.svg" heigth="60em" width="60em" alt="SVN"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg" heigth="60em" width="60em" alt="Tomcat"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" heigth="60em" width="60em" alt="TS"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60em" width="60em" alt="Java"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="60em" width="60em" alt="JavaScript"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="60em" width="60em" alt="Angular"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original-wordmark.svg" height="60em" width="60em" alt="Angular"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" height="60em" width="60em" alt="Bitbucket"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60em" width="60em" alt="CSS"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="60em" width="60em" alt="Docker"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" height="60em" width="60em" alt="Gimp"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60em" width="60em" alt="GIT"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="60em" width="60em" alt="Git_hub"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60em" width="60em" alt="HTML5"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" height="60em" width="60em" alt="PS"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="60em" width="60em" alt="Spring"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="60em" width="60em" alt="SQLite"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/subversion/subversion-original.svg" height="60em" width="60em" alt="SVN"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg" height="60em" width="60em" alt="Tomcat"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="60em" width="60em" alt="TS"/>
 
 
 # 📊 GitHub Stats:
