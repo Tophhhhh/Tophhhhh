@@ -24,7 +24,7 @@
 ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=flat&logo=adobephotoshop&logoColor=white) 
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=flat&logo=swagger&logoColor=white)
 
-## NEW Techstacks
+# 💻 Tech Stack:
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60em" width="60em" alt="Java"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="60em" width="60em" alt="Spring"/>
@@ -56,8 +56,11 @@
 </div>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=tophhhhh&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=tophhhhh&theme=blueberry&hide_border=false)<br>
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=tophhhhh&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true" width="400em"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tophhhhh&theme=blueberry&hide_border=false" width="440em"/>
+</div>
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tophhhhh&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
