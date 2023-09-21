@@ -1,3 +1,5 @@
+![Banner](https://raw.githubusercontent.com/Tophhhhh/Sources/1d815c3896a421fed785394eccdd65fc3cb0a43f/Banner/Banner_960x100.svg?token=AXCA7GFSLC7KZL4KCERQPFLFBSVUU)
+
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWUzdWZ4ZWJ5Y3RybXp4c294cjd4NW55czB3OWNqdzc3bWYyYzNvdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/r49zgiCebaE0yd6UNn/giphy.gif" height="100em" width="100em"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome!)](https://git.io/typing-svg)
@@ -47,5 +49,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=tophhhhh&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tophhhhh&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=tophhhhh&theme=blueberry&hide_border=false"/>
+
+![Banner](https://raw.githubusercontent.com/Tophhhhh/Sources/1d815c3896a421fed785394eccdd65fc3cb0a43f/Banner/Banner_960x100.svg?token=AXCA7GFSLC7KZL4KCERQPFLFBSVUU)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
