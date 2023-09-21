@@ -4,6 +4,8 @@
 <!--
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWUzdWZ4ZWJ5Y3RybXp4c294cjd4NW55czB3OWNqdzc3bWYyYzNvdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/r49zgiCebaE0yd6UNn/giphy.gif" height="100em" width="100em"/>
 ![GitHub](https://img.shields.io/badge/Tophhhh-gray?logo=github)
+
+![Static Badge](https://img.shields.io/badge/Discord-Txph-blue?logo=discord)
 -->
 
 # 💫 About Me:
