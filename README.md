@@ -44,11 +44,8 @@
 </div>
 
 # 📊 GitHub Stats:
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?username=tophhhhh&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true" width="400em"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tophhhhh&theme=blueberry&hide_border=false" width="440em"/>
-</div>
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=tophhhhh&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<img src="https://github-readme-stats.vercel.app/api?username=tophhhhh&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tophhhhh&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=tophhhhh&theme=blueberry&hide_border=false"/>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
