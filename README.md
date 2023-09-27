@@ -19,7 +19,7 @@
 <details>
   <summary>Languages</summary>
   <hr>
-  <div>
+  <div align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60em" width="60em" alt="Java"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="60em" width="60em" alt="Spring"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60em" width="60em" alt="HTML5"/>
@@ -34,7 +34,7 @@
 <details>
   <summary>Tools</summary>
   <hr>
-  <div>
+  <div align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/subversion/subversion-original.svg" height="60em" width="60em" alt="SVN"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60em" width="60em" alt="GIT"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="60em" width="60em" alt="Git_hub"/>
@@ -48,7 +48,7 @@
 <details>
   <summary>Application Server</summary>
   <hr>
-  <div>
+  <div align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg" height="60em" width="60em" alt="Tomcat"/>
   </div>
   <hr>
@@ -57,7 +57,7 @@
 <details>
   <summary>Database</summary>
   <hr>
-  <div>
+  <div align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="60em" width="60em" alt="SQLite"/>
     <img src="" height="60em" width="60em" alt="Oracle"/>
   </div>
@@ -67,7 +67,7 @@
 <details>
   <summary>Other</summary>
   <hr>
-  <div>
+  <div align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" height="60em" width="60em" alt="Gimp"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" height="60em" width="60em" alt="PS"/>
   </div>
