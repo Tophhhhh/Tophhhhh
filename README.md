@@ -1,5 +1,5 @@
 ![Banner](https://raw.githubusercontent.com/Tophhhhh/Tophhhhh/ee59c92c295b81c953cff53d2eb785446730fe73/src/Banner_960x100.svg)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome!)](https://git.io/typing-svg)
+<!-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome!)](https://git.io/typing-svg) -->
 
 <!--
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWUzdWZ4ZWJ5Y3RybXp4c294cjd4NW55czB3OWNqdzc3bWYyYzNvdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/r49zgiCebaE0yd6UNn/giphy.gif" height="100em" width="100em"/>
@@ -7,6 +7,7 @@
 
 ![Static Badge](https://img.shields.io/badge/Discord-Txph-blue?logo=discord)
 -->
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWUzdWZ4ZWJ5Y3RybXp4c294cjd4NW55czB3OWNqdzc3bWYyYzNvdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/r49zgiCebaE0yd6UNn/giphy.gif" height="150em" width="150em" align="right"/>
 
 # 💫 About Me:
 - 👋 Hi, i’m Toph
