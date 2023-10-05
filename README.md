@@ -10,8 +10,7 @@
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWUzdWZ4ZWJ5Y3RybXp4c294cjd4NW55czB3OWNqdzc3bWYyYzNvdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/r49zgiCebaE0yd6UNn/giphy.gif" height="150em" width="150em" align="right"/>
 
 # 💫 About Me:
-- 👋 Hi, i’m Toph
-- 🔭 I’m currently working on a Discord bot called "Tuffel"
+- 👋 Hi, i’m Toph.
 
 # 💻 Tech Stack:
 ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=flat&logo=Apache%20Maven&logoColor=white) 
