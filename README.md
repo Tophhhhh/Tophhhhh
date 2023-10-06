@@ -13,8 +13,10 @@
 - 👋 Hi, i’m Toph.
 
 # 💻 Tech Stack:
+<!--
 ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=flat&logo=Apache%20Maven&logoColor=white) 
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=flat&logo=swagger&logoColor=white)
+-->
 
 <details>
   <summary>Languages</summary>
